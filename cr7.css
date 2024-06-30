@@ -50,4 +50,9 @@ button:hover {
     #display {
         font-size: 1.2em;
     }
+
+    button {
+        padding: 15px;
+        font-size: 1.2em;
+    }
 }
